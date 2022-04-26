@@ -1,9 +1,9 @@
-# OwnApp
+# Own App
 Is it possible to get compiled complete mobile application?
 
 Yes. Currenly android fully supported. And the only restriction for iOS - to have:
 -	installed signing tools and Mac computer. In all the rest the procedure of generating of an app is the same.
--	Logic is not yet supported, but there are a lot UI features to play with, including in app navigation.
+-	Logic is not yet supported, but there are a lot UI features to play with, including in-app navigation.
 
 Is mobile constructor published?
 Yes.
