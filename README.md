@@ -16,5 +16,5 @@ Does web editor/constructor supported?
 What technology is it backed by?
 -	React Native. Mobile application has single codebase for both iOS and Android and written almost completely in vanilla JavaScript. Web editor has 90% common codebase with the mobile app (using react-native-web).
 
-*This is annoncement for source code publishing in the near future.*
+*This is announcement for source code publishing in the near future.*
 Contributors are welcome.
